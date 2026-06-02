@@ -43,7 +43,7 @@ The application fetches the latest exchange rate and displays the converted amou
 Installation
 Clone the repository:
 git clone
-Navigate to the project folder:
+Navigate to the project folder: https://github.com/sinchanayogesh19/Currency-Converter-project/tree/main
 cd currency-converter
 Open index.html in your browser.
 
